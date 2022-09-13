@@ -9,12 +9,9 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
 
 ## First setup
-
-## 1st Step: 
+ 
 Clone the repository to your local machine. Github will have a `CODE` drop down menu. Choose either options You are comfortable with and download it on your system.
 
-## 2nd Step: 
 Download docker on your local machine. In your terminal, type `docker -v` & `docker-compose -v` to check the version you are running.
 
-## 3rd Step:
 Open the root project file in your favourite IDE or Code Editor *(I used VS Code)*. CD into your root file and run the command `docker-compose up`. Trouble shoot any errors you face, and you should be running the project.
